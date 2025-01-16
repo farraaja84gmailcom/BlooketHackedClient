@@ -1,13 +1,3 @@
-/**
-* Copyright (c) Slushi 2023
-* This file has been claimed and legally copyrighted
-* by SlushAU. DO not reporoduce this or
-* in any case make people think this is yours.
-*
-* © Jordan Copyright Chipping
-*/
-
-
 (() => {
     const cheat = (async () => {
         if (String(Function.prototype.call).includes('native')) {
